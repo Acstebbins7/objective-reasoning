@@ -29,7 +29,7 @@ function getHardestHomework(str){
             lowest = score.averageScore;
             hard = score.name;
         }
-    };
+    }
     return hard;
 }
 
